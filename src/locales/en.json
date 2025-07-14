@@ -1,0 +1,18 @@
+{
+  "home": "Home",
+  "about": "About",
+  "welcome": "Welcome to our site!",
+  "homeText": "This is the home page.",
+  "aboutText": "This is the about page.",
+  "exploreMore": "Explore our features, learn more about us, and enjoy your stay!",
+  "ourTeam": "Our Team",
+  "aboutMore": "We are passionate about building beautiful, multilingual web experiences with Mantine and React.",
+  "contact": "Contact",
+  "yourName": "Your Name",
+  "yourEmail": "Your Email",
+  "yourMessage": "Your Message",
+  "namePlaceholder": "Enter your name",
+  "emailPlaceholder": "Enter your email",
+  "messagePlaceholder": "Type your message",
+  "send": "Send"
+}
